@@ -11,5 +11,6 @@ A big thank you to everyone who contributed to making this course a success:
 - https://www.freeconvert.com/mp4-to-mp3/download (for helping to convert files to fix audio issues)
 - https://online-video-cutter.com/ (helping trim videos better than canva does, for free!)
 - https://www.linkedin.com/pulse/importance-meta-images-web-design-social-media-robert-barzilauskas (for providing one of the metatag SEO images that we used in the course)
+- html5up.net for the demo template for the course
 
 Your support and resources made this project possible! 💙
